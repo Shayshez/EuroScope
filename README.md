@@ -31,7 +31,7 @@ Q|Part/Value|Source
 
 ___________________________________________________
 ## Which is the right DSO150 DIY Kit?
-I checked few sources for the DSO150 kits, only the ones that come from [Banggood](https://www.banggood.com/Orignal-JYE-Tech-DS0150-15001K-DSO-SHELL-DIY-Digital-Oscilloscope-Kit-With-Housing-p-1093865.html?p=PN14171629793201505V&cur_warehouse=CN) was original 2017 versions.
+I checked few sources for the DSO150 kits, only the ones that come from [Banggood](https://www.banggood.com/Orignal-JYE-Tech-DS0150-15001K-DSO-SHELL-DIY-Digital-Oscilloscope-Kit-With-Housing-p-1093865.html?p=PN14171629793201505V&cur_warehouse=CN) was original 2017 version.
 
 Other versions was less accurate and with a lots of ground noises.
 If you’re not buying the banggood version you need to find 2017 version and pay attention to (see picture):
