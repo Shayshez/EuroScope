@@ -43,5 +43,5 @@ If you’re not buying the banggood version you need to find 2017 version and pa
 ![the right DSO150 DIY Kit](https://raw.githubusercontent.com/Shayshez/DSO150-Euro-Scope/master/the_right_dso150_kit.jpg)
 ___________________________________________________
 ## Alternative Firmware:
-There is alternative firmware to DSO150 that add lots of new features, more info at the link below:
+There is alternative firmware to DSO150 that add lots of new features, more info at:
 [Open DSO 150](https://github.com/michar71/Open-DSO-150)
