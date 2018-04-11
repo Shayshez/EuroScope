@@ -30,6 +30,10 @@ Q|Part/Value|Source
 8|10cm Wrapping Wires|
 
 ___________________________________________________
+## Alternative Firmware:
+There is alternative firmware to DSO150 that add lots of new features, more info at:
+[Open DSO 150](https://github.com/michar71/Open-DSO-150)
+___________________________________________________
 ## Which is the right DSO150 DIY Kit?
 I checked few sources for the DSO150 kits, only the ones that come from [Banggood](https://www.banggood.com/Orignal-JYE-Tech-DS0150-15001K-DSO-SHELL-DIY-Digital-Oscilloscope-Kit-With-Housing-p-1093865.html?p=PN14171629793201505V&cur_warehouse=CN) was original 2017 version.
 
@@ -41,7 +45,3 @@ If you’re not buying the banggood version you need to find 2017 version and pa
 4. Silk screen that says it’s 2017 version... 
 
 ![the right DSO150 DIY Kit](https://raw.githubusercontent.com/Shayshez/DSO150-Euro-Scope/master/the_right_dso150_kit.jpg)
-___________________________________________________
-## Alternative Firmware:
-There is alternative firmware to DSO150 that add lots of new features, more info at:
-[Open DSO 150](https://github.com/michar71/Open-DSO-150)
