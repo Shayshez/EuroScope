@@ -13,8 +13,8 @@ ___________________________________________________
 ## Bill Of Materials:
 Q|Part/Value|Source
 -|----------|------
-1|DSO150 Eurorack panel|[Pusherman](https://pushermanproductions.com)
-1|DSO150 Conversion Board|[Pusherman](https://pushermanproductions.com)
+1|DSO150 Eurorack panel|[Pusherman](https://pushermanproductions.com/product/dso150-oscilloscope-eurorack-conversion-kit-14hp-pcb-panel/)
+1|DSO150 Conversion Board|[Pusherman](https://pushermanproductions.com/product/dso150-oscilloscope-eurorack-conversion-kit-14hp-pcb-panel/)
 1|Original Dso150 (15001K) DIY KIT|[Banggood](https://www.banggood.com/Orignal-JYE-Tech-DS0150-15001K-DSO-SHELL-DIY-Digital-Oscilloscope-Kit-With-Housing-p-1093865.html?p=PN14171629793201505V)
 1|L7809CV – 9v Voltage Regulator|[Tayda](https://www.taydaelectronics.com/l7809cv-l7809-7809-voltage-regulator-ic-9v-1-5a.html)
 1|0.33uF – Tantalum Capacitor|[Tayda](https://www.taydaelectronics.com/capacitors/tantalum-capacitors/0-33uf-50v-radial-tantalum-capacitor.html)
