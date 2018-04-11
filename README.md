@@ -44,4 +44,4 @@ If you’re not buying the banggood version you need to find 2017 version and pa
 ___________________________________________________
 ## Alternative Firmware:
 There is alternative firmware to DSO150 that add lots of new features, more info at the link below:
-[Open DSO 150]{https://github.com/michar71/Open-DSO-150}
+[Open DSO 150](https://github.com/michar71/Open-DSO-150)
