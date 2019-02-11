@@ -1,5 +1,5 @@
 # EuroScope MKII - DSO150 Eurorack Conversion Kit
-![DSO150 EuroScope](https://raw.githubusercontent.com/Shayshez/EuroScope/master/EuroScopeV2.png)
+![DSO150 EuroScope](EuroScopeV2.png)
 
 [DSO 150](https://www.banggood.com/Orignal-JYE-Tech-DS0150-15001K-DSO-SHELL-DIY-Digital-Oscilloscope-Kit-With-Housing-p-1093865.html?p=PN14171629793201505V&cur_warehouse=CN) Is a cheap mini oscilloscope from JYE TECH.
 
@@ -10,6 +10,10 @@ This conversion kit lets you the ability to convert it to Eruorack module and co
 * Optional: Expander 2Hp PCB+Panel
 
 This is an easy DIY project, just follow the [Build guide](https://github.com/Shayshez/DSO150-Euro-Scope/blob/master/DSO-150-Eurorack-Conversion-Kit-v1.pdf).
+
+* Assemblong Videos Playlist: https://www.youtube.com/watch?v=Akz4jSZyOQc&list=PL2KBIbSMnGOh_Mu7Z_c3bYFIhDCGHZpcL
+
+
 ___________________________________________________
 ## Alternative Firmware:
 There is alternative firmware to DSO150 that add lots of new features, more info at:
