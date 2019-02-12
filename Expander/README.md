@@ -46,7 +46,7 @@ ___________________________________________________________________________
 **Firmware Update:**
 
 I'm using ST-LINK V2 with ST-LINK Utility software on Windows Environment.
-You can find hex file on this repo ([here](Firmware%20-%20Open%20DSO150)) 
+You can find hex file in this repo ([here](Firmware%20-%20Open%20DSO150)) 
 
 Connect the programer to DSO150:
 
@@ -65,7 +65,3 @@ Connect the programer to DSO150:
 1. Go to Target->Settings and choose SWD Port, Frequency = 4.0 MHz, After you click "OK" the programer should connect to DSO150 automatically.
 2. Go to Target->Program & Verify, Browse and select new firmware hex file and hit Start
 3. After the Flash process finished, restart EuroScope and hold "OK" button during boot up.
-
-
-
-
