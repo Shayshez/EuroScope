@@ -7,7 +7,7 @@ This conversion kit lets you the ability to convert it to Eruorack module and co
 
 * 14 Hp Panel
 * Conversion Board
-* Optional: Expander 2Hp PCB+Panel - Provides 3 additional digital inputs (Will work only with [Open DSO 150](https://github.com/michar71/Open-DSO-150) Firmware), OK Botton trigger input and Trigger led.
+* Optional: [Expander 2Hp PCB+Panel](https://pushermanproductions.com/product/plum-audio-dso150-mk2-oscilloscope-expander-2hp-pcb-panel/) - Provides 3 additional digital inputs (Will work only with [Open DSO 150](https://github.com/michar71/Open-DSO-150) Firmware), OK Botton trigger input and Trigger led.
 
 This is an easy DIY project, just follow the [Build guide](EuroScope_mk2-Build_Guide.pdf) (PDF File) I'll recommend to download it to your computer.
 (You can find the BOM in the build guide).
