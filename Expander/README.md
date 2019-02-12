@@ -64,7 +64,7 @@ Connect the programer to DSO150:
 * Connect your EuroScope to power source.
 1. Go to Target->Settings and choose SWD Port, Frequency = 4.0 MHz, After you click "OK" the programer should connect to DSO150 automatically.
 2. Go to Target->Program & Veify, Browse and select new firmware hex file and hit Start
-3. After the Flash process finished, restart EuroScope and press "OK" button during boot up.
+3. After the Flash process finished, restart EuroScope and hold "OK" button during boot up.
 
 
 
