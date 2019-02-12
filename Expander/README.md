@@ -1,7 +1,7 @@
 **Expander For EuroScope**
 
 Adds additional Buffered inputs:
-- 3 Digital Inputs D1, D2, D3 (OPEN DSO 150 Firmware is required).
+- 3 Digital Inputs D1, D2, D3 ([Open DSO 150](https://github.com/michar71/Open-DSO-150) Firmware is required).
 - OK button trigger input.
 - Also, brings the DSO150 Trigger led indicator to front.
 
