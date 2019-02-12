@@ -42,7 +42,7 @@ Cut Male to Male Jumper wire into two parts and solder to DSO150:
 |LED|Remove R14 and solder this wire to top pad of R14|
 
 ![Expander](Expander.png)
-
+___________________________________________________________________________S
 **Firmware Update:**
 
 I'm using ST-LINK V2 with ST-LINK Utility software on Windows Environment.
@@ -59,6 +59,13 @@ Connect the programer to DSO150:
 
 ![stlink](STM32-Connect.png)
 ![stlink](ST-LINK-Connect.png)
+
+**With ST-LINK Utility Software:**
+* Connect your EuroScope to power source.
+1. Go to Target->Settings and choose SWD Port, Frequency = 4.0 MHz, After you click "OK" the programer should connect to DSO150 automatically.
+2. Go to Target->Program & Veify, Browse and select new firmware hex file and hit Start
+3. After the Flash process finished, restart EuroScope and press "OK" button during boot up.
+
 
 
 
