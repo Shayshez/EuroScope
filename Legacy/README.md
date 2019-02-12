@@ -1,5 +1,5 @@
 # DSO150 Eurorack Conversion Kit
-![DSO150 EuroScope](https://raw.githubusercontent.com/Shayshez/DSO150-Euro-Scope/master/DSO150-EUROSCOPE.jpeg)
+![DSO150 EuroScope](https://raw.githubusercontent.com/Shayshez/DSO150-Euro-Scope/master/Legacy/DSO150-EUROSCOPE.jpeg)
 
 [DSO 150](https://www.banggood.com/Orignal-JYE-Tech-DS0150-15001K-DSO-SHELL-DIY-Digital-Oscilloscope-Kit-With-Housing-p-1093865.html?p=PN14171629793201505V&cur_warehouse=CN) Is a cheap mini oscilloscope from JYE TECH.
 
