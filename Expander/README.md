@@ -14,7 +14,7 @@ Adds additional Buffered inputs:
 |4|Resistor 0603|100k|R1, R2, R3, R4|
 |1|Resistor 0603|1K|R5 (For Led Brightness)|
 |4|NPN Transistor| MMBT3904|T1, T2, T3, T4|
-|1|LED 1206|Any colour...|LED1|
+|1|LED 1206|Any colour you like...|LED1|
 |4|Jack PJ398SM|"Thonkiconn"|J2, J3, J4, J5|
 |1|Male Pin headers 2.54| 1 row of 7 Pins| J1|
 |2|Male Pin headers 2.54| 1 row of 8 Pins|**DSO150 Main Board:** J9 (For Connection with Expander), J3 (To Update the Firmware)|
@@ -25,4 +25,22 @@ Adds additional Buffered inputs:
 1. Build the Expander... Solder all components in place and assemble the panel.
 2. Connect the Expander:
 
+|Expander J1|DSO 150|
+|-----------|-------|
+|3.3V|3.3V @J9|
+|PB13|PB13 @J9|
+|PB14|PB14 @J9|
+|PB15|PB15 @J9|
+|GND|GND @J9|
+
+Cut Male to Male Jumper wire into two parts and solder to DSO150:
+
+|Expander J1|DSO 150|
+|-----------|-------|
+|OK|Top Right Pin of OK Button|
+|LED|Remove R14 and solder this wire to top pad of R14|
+
 ![Expander](Expander.png)
+
+**Firmware Update:**
+
