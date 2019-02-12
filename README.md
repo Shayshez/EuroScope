@@ -9,7 +9,7 @@ This conversion kit lets you the ability to convert it to Eruorack module and co
 * Conversion Board
 * Optional: Expander 2Hp PCB+Panel
 
-This is an easy DIY project, just follow the [Build guide](EuroScope_mk2-Build_Guide.pdf).
+This is an easy DIY project, just follow the [Build guide](EuroScope_mk2-Build_Guide.pdf) (You can find the BOM in the build guide).
 
 * Assemblong Videos Playlist: https://www.youtube.com/watch?v=Akz4jSZyOQc&list=PL2KBIbSMnGOh_Mu7Z_c3bYFIhDCGHZpcL
 
