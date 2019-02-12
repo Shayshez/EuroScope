@@ -27,6 +27,7 @@ If you’re not buying the banggood version you need to find 2017 version and pa
 1. Trimmers location.
 2. Cut in the main PCB for trimmers access.
 3. Only 3 electrolytic capacitors in the analog board (not 5).
-4. Silk screen that says it’s 2017 version... 
+4. Sticker with Serial Number.
+5. Silk screen that says it’s 2017 version... 
 
 ![the right DSO150 DIY Kit](https://raw.githubusercontent.com/Shayshez/DSO150-Euro-Scope/master/the_right_dso150_kit.jpg)
