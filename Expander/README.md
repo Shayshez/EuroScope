@@ -45,7 +45,8 @@ Cut Male to Male Jumper wire into two parts and solder to DSO150:
 
 **Firmware Update:**
 
-I'm using ST-LINK V2 (Same program as Mutable Instruments modules) with ST-LINK Utility software on Windows Environment.
-You can find HEX file on this repo (here) 
+I'm using ST-LINK V2 with ST-LINK Utility software on Windows Environment.
+You can find hex file on this repo ([here](Firmware%20-%20Open%20DSO150)) 
+
 
 
