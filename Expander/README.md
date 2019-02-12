@@ -17,7 +17,8 @@ Adds additional Buffered inputs:
 |1|LED 1206|Any colour you like...|LED1|
 |4|Jack PJ398SM|"Thonkiconn"|J2, J3, J4, J5|
 |1|Male Pin headers 2.54| 1 row of 7 Pins| J1|
-|2|Male Pin headers 2.54| 1 row of 8 Pins|**DSO150 Main Board:** J9 (For Connection with Expander), J3 (To Update the Firmware)|
+|1|Male Pin headers 2.54| 1 row of 8 Pins|**DSO150 Main Board:** J9 (For Connection with Expander)|
+|1|Male Pin headers 2.54| 1 row of 4 Pins|**DSO150 Main Board:** J3 (SWD - To Update the Firmware)
 |7|Feamle to Feamle Jumper Wire|To connect between Boards||
 |1|Male to Male Jumper Wire|To connect between Boards|| 
 
@@ -43,4 +44,8 @@ Cut Male to Male Jumper wire into two parts and solder to DSO150:
 ![Expander](Expander.png)
 
 **Firmware Update:**
+
+I'm using ST-LINK V2 (Same program as Mutable Instruments modules) with ST-LINK Utility software on Windows Environment.
+You can find HEX file on this repo (here) 
+
 
