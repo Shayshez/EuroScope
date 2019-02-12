@@ -42,7 +42,7 @@ Cut Male to Male Jumper wire into two parts and solder to DSO150:
 |LED|Remove R14 and solder this wire to top pad of R14|
 
 ![Expander](Expander.png)
-___________________________________________________________________________S
+___________________________________________________________________________
 **Firmware Update:**
 
 I'm using ST-LINK V2 with ST-LINK Utility software on Windows Environment.
