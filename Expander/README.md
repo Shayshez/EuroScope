@@ -48,5 +48,17 @@ Cut Male to Male Jumper wire into two parts and solder to DSO150:
 I'm using ST-LINK V2 with ST-LINK Utility software on Windows Environment.
 You can find hex file on this repo ([here](Firmware%20-%20Open%20DSO150)) 
 
+Connect the programer to DSO150:
+
+|ST-LINK JTAG Port|DSO 150|
+|-----------------|-------|
+|Pin 1|3.3V @J3|
+|Pin 3|GND @J3|
+|Pin 7|DIO @J3|
+|Pin 9|CLK @J3|
+
+![stlink](STM32-Connect.png)
+![stlink](ST-LINK-Connect.png)
+
 
 
