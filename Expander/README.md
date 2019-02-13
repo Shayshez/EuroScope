@@ -5,7 +5,7 @@ Adds additional Buffered inputs:
 - OK button trigger input.
 - Also, brings the DSO150 Trigger led indicator to front.
 
-**BOM:**
+### Expander BOM:
 
 |Q|Part|Value|Reference|
 |-|----|-----|---------|
@@ -17,6 +17,11 @@ Adds additional Buffered inputs:
 |1|LED 1206|Any colour you like...|LED1|
 |4|Jack PJ398SM|"Thonkiconn"|J2, J3, J4, J5|
 |1|Male Pin headers 2.54| 1 row of 7 Pins| J1|
+
+**To connect between Boards:**
+
+|Q|Part|Value|Reference|
+|-|----|-----|---------|
 |1|Male Pin headers 2.54| 1 row of 8 Pins|**DSO150 Main Board:** J9 (For Connection with Expander)|
 |1|Male Pin headers 2.54| 1 row of 4 Pins|**DSO150 Main Board:** J3 (SWD - To Update the Firmware)
 |7|Feamle to Feamle Jumper Wire|To connect between Boards||
