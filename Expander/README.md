@@ -69,5 +69,5 @@ Connect the programer to DSO150:
 
 **With ST-LINK Utility Software:**
 1. Go to Target->Settings and choose SWD Port, Frequency = 4.0 MHz, After you click "OK" the programer should connect to DSO150 automatically.
-2. Go to Target->Program & Verify, Browse and select new firmware hex file and hit Start
+2. Go to Target->Program & Verify, Browse and select new firmware [hex file](Firmware%20-%20Open%20DSO150) and hit Start
 3. After the Flash process finished, restart EuroScope and hold "OK" button during boot up.
