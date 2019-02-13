@@ -55,7 +55,7 @@ You can find hex file in this repo ([here](Firmware%20-%20Open%20DSO150))
 
 Connect the programer to DSO150:
 
-|ST-LINK JTAG Port|DSO 150|
+|ST-LINK JTAG Port|DSO 150 SWD Port|
 |-----------------|-------|
 |Pin 1|3.3V @J3|
 |Pin 3|GND @J3|
