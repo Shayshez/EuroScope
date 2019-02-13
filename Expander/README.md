@@ -1,4 +1,4 @@
-**Expander For EuroScope**
+# Expander For EuroScope
 
 Adds additional Buffered inputs:
 - 3 Digital Inputs D1, D2, D3 ([Open DSO 150](https://github.com/michar71/Open-DSO-150) Firmware is required).
@@ -43,7 +43,7 @@ Cut Male to Male Jumper wire into two parts and solder to DSO150:
 
 ![Expander](Expander.png)
 ___________________________________________________________________________
-**Firmware Update:**
+# Firmware Update:
 
 I'm using ST-LINK V2 with ST-LINK Utility software on Windows Environment.
 You can find hex file in this repo ([here](Firmware%20-%20Open%20DSO150)) 
