@@ -24,7 +24,7 @@ Adds additional Buffered inputs:
 |-|----|-----|---------|
 |1|Male Pin headers 2.54| 1 row of 8 Pins|**DSO150 Main Board:** J9 (For Connection with Expander)|
 |1|Male Pin headers 2.54| 1 row of 4 Pins|**DSO150 Main Board:** J3 (SWD - To Update the Firmware)
-|7|Feamle to Feamle Jumper Wire|To connect between Boards||
+|7|Female to Female Jumper Wire|To connect between Boards||
 |1|Male to Male Jumper Wire|To connect between Boards|| 
 
 **How To Build?**
